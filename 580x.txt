@@ -1,0 +1,20 @@
+#globalminer ewbf-zcash
+#globalminer zcash-miner
+#globalminer claymore
+#globalminer ethminer
+#globalminer sgminer-gm
+globalminer phoenixminer
+maxgputemp 80
+stratumproxy enabled
+proxywallet thundertlw.1
+proxypool1 us-east.ethash-hub.miningpoolhub.com:20535
+proxypool2 europe.ethash-hub.miningpoolhub.com:20535
+#poolemail 
+#globalcore 
+globalmem 2085
+globalfan 90
+#globalpowertune 12
+autoreboot 9
+globaldriver amdgpu
+custompanel TLWMIN123456
+flags -proto 1
