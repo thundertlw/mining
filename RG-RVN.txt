@@ -7,7 +7,7 @@
 globalminer gminer
 maxgputemp 80
 stratumproxy enabled
-proxywallet 0x775877dc0F569bC5949F64a40Afe17AAc0E2A56B
+proxywallet RB7hfxvh18axQQa49nxTG6oJGqq6izyxLL
 proxypool1 rvn-us-east1.nanopool.org:12222
 proxypool2 rvn-us-east1.nanopool.org:12222
 #poolemail 
