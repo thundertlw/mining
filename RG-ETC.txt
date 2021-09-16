@@ -17,3 +17,4 @@ globalfan 90
 autoreboot 9
 globaldriver amdgpu
 custompanel usbcms123456
+flags -proto 1
