@@ -8,7 +8,8 @@ maxgputemp 80
 stratumproxy enabled
 proxywallet 0x14b883e5d8ae94C98012DFbbAD2C63D69Ea8a06D
 proxypool1 etc-us-east1.nanopool.org:19999
-proxypool2 etc-us-west1.nanopool.org:19999 
+proxypool2 etc-us-west1.nanopool.org:19999
+flags -proto 1
 #poolemail 
 #globalcore 
 globalmem 2085
@@ -17,4 +18,3 @@ globalfan 90
 autoreboot 9
 globaldriver amdgpu
 custompanel usbcms123456
-flags -proto 1
