@@ -3,8 +3,9 @@
 #globalminer claymore
 #globalminer ethminer
 #globalminer sgminer-gm
-globalminer phoenixminer
-maxgputemp 97
+#globalminer phoenixminer
+globalminer gminer
+maxgputemp 83
 stratumproxy enabled
 proxywallet 0x775877dc0F569bC5949F64a40Afe17AAc0E2A56B
 proxypool1 eth-us-east1.nanopool.org:9999
