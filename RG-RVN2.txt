@@ -10,6 +10,7 @@ stratumproxy enabled
 proxywallet RJQTRqrUv7N8EqobCw1MzRKBYZAtHxXWMh
 proxypool1 rvn-us-east1.nanopool.org:12222
 proxypool2 rvn-us-west1.nanopool.org:12222
+flags -api 10555
 #poolemail 
 #globalcore 
 globalmem 2085
