@@ -10,7 +10,7 @@ stratumproxy enabled
 proxywallet 0x14b883e5d8ae94C98012DFbbAD2C63D69Ea8a06D
 proxypool1 etc-us-east1.nanopool.org:19999
 proxypool2 etc-us-west1.nanopool.org:19999
-flags -api 10555 
+#flags -api 10555 
 #poolemail 
 #globalcore 
 globalmem 2085
