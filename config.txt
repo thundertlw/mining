@@ -1,0 +1,32 @@
+## instructions available at: asicseer.com/page/kb#writing-config
+
+# to prevent pool-related downtime, you must have poolname1, poolname2, and poolname3
+# defined to at least two different pool domains/companies
+# see https://asicseer.com/page/kb#poolsettings
+
+global poolname1 us1.sbicrypto.com:3333
+global username1 thunder-mine
+global poolpass1 x
+global sendworker1 location
+global poolname2 eu1.sbicrypto.com:3333
+global username2 thunder-mine
+global poolpass2 x
+global sendworker2 location
+global poolname3 cn1.sbicrypto.com:3333
+global username3 thunder-mine
+global poolpass3 x
+global sendworker3 location
+
+#global maxwatts 1440
+global maxtemp 90 6
+global maxfan 90
+global throttle 100
+
+global panelclear 5
+global asicboost yes
+global autotune yes
+
+global autoupdate yes
+global allowed yes
+global blinkgreen hashrate
+global blinkred idle
